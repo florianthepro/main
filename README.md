@@ -1,4 +1,4 @@
 # 📚 Manuals
 
 Alle Anleitungen sind über die zentrale Index-Seite erreichbar:  
-👉 [Zur Übersicht](https://florianthepro.github.io/main/)
+[👉](file://euler.tcsoc.de/trainee/staff/floriank/Berichtshefte/) [Zur Übersicht](https://florianthepro.github.io/main/)
