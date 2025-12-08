@@ -64,21 +64,11 @@
     <table id="fileTable">
         <tr><th>Name</th><th>Typ</th><th>Größe</th></tr>
         <!-- Manuell gepflegte Einträge -->
-        <tr>
-            <td>📁 <a href="https://florianthepro.github.io/docs/pages/utils">utils</a></td>
-            <td>Ordner</td>
-            <td>9183746501928374650192837465019283746501928374650192837465019283746501928374650192837465019283746501 MB</td>
-        </tr>
-        <tr>
-            <td>📄 <a href="https://florianthepro.github.io/manual/" target="_blank">manual</a></td>
-            <td>Page</td>
-            <td>6049281735092847163950284716395028471639502847163950284716395028471639502847163950284716395028471639 MB</td>
-        </tr>
   <tbody id="include"></tbody>
 </table>
 
 <script>
-  fetch("./html2.txt")
+  fetch("./txt.txt")
     .then(response => response.text())
     .then(data => {
       document.getElementById("include").innerHTML = data;
