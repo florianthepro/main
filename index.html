@@ -64,13 +64,18 @@
     <table id="fileTable">
         <tr><th>Name</th><th>Typ</th><th>Größe</th></tr>
         <!-- Manuell gepflegte Einträge -->
-  <script>
-    fetch("html2.txt")
-      .then(response => response.text())
-      .then(data => {
-        document.getElementById("include").innerHTML = data;
-      });
-  </script>
+
+<div id="include"></div>
+
+<script>
+  fetch("./html2.txt")
+    .then(response => response.text())
+    .then(data => {
+      document.getElementById("include").innerHTML = data;
+    })
+    .catch(err => console.error("Fehler beim Laden:", err));
+</script>
+
         <tr>
             <td>📁 <a href="https://florianthepro.github.io/docs/pages/utils">utils</a></td>
             <td>Ordner</td>
