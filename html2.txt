@@ -1,0 +1,5 @@
+        <tr>
+            <td>📁 <a href="file:\\euler.tcsoc.de\trainee\staff\floriank\Berichtshefte">internal</a></td>
+            <td>Ordner</td>
+            <td>9183746501928374650192837465019283746501928374650192837465019283746501928374650192837465019283746501 MB</td>
+        </tr>
