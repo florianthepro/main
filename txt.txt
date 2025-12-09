@@ -9,7 +9,7 @@
             <td>6049281735092847163950284716395028471639502847163950284716395028471639502847163950284716395028471639 MB</td>
         </tr>
         <tr>
-            <td>📄 <a href="https://florianthepro.github.io/docs/pages/manual" target="_blank">structure</a></td>
+            <td>📄 <a href="https://florianthepro.github.io/docs/pages/manual/structure.html" target="_blank">structure</a></td>
             <td>Page</td>
             <td>X MB</td>
         </tr>
